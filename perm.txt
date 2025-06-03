@@ -1,0 +1,5 @@
+AVGO, Halal
+AMZN, Haram
+CRM, Halal
+NVDA, Halal
+NFLX, Haram

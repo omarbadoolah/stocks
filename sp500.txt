@@ -1,0 +1,5 @@
+Broadcom,AVGO
+Bristol-Myers Squibb, BMY
+Salesforce, CRM
+Eli Lilly, LLY
+Nvidia, NVDA
