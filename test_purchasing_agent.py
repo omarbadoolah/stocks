@@ -1,14 +1,14 @@
 import unittest
 import snp
+import scraper
 
 class TestPurchasingAgent(unittest.TestCase):
 	def test_purchasing_agent(self):
-		purchaser = snp.PurchasingAgent()
-		purchaser.update_snp500_list("sp500.txt")
+		purchaser = snp.PurchasingAgent("sp500.csv")
 		purchaser.get_permissibilities("perm.txt")
 		purchaser.screen()
 		purchaser.rank_by_size()
 		purchaser.compute_relative_price()
-		self.assertEqual(len(purchaser.snp500), 5)
-		self.assertEqual(len(purchaser.candidates), 3)
+		self.assertGreaterEqual(len(purchaser.snp500), 500)
+		self.assertGreaterEqual(len(purchaser.snp500), len(purchaser.candidates))
 	

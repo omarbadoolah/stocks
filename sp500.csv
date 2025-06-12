@@ -1,0 +1,503 @@
+Microsoft:MSFT:6.22%
+Nvidia:NVDA:6.21%
+Apple Inc.:AAPL:5.39%
+Amazon:AMZN:4.09%
+Alphabet Inc. (Class C):GOOG:3.90%
+Alphabet Inc. (Class A):GOOGL:3.87%
+Meta Platforms:META:3.13%
+Broadcom:AVGO:2.04%
+Berkshire Hathaway:BRK.B:1.88%
+Tesla, Inc.:TSLA:1.81%
+Walmart:WMT:1.38%
+JPMorgan Chase:JPM:1.32%
+Lilly (Eli):LLY:1.27%
+Visa Inc.:V:1.26%
+Mastercard:MA:0.95%
+Netflix:NFLX:0.91%
+Oracle Corporation:ORCL:0.88%
+ExxonMobil:XOM:0.82%
+Costco:COST:0.79%
+Procter & Gamble:PG:0.68%
+Johnson & Johnson:JNJ:0.67%
+Home Depot (The):HD:0.65%
+Bank of America:BAC:0.60%
+AbbVie:ABBV:0.60%
+Palantir Technologies:PLTR:0.55%
+Coca-Cola Company (The):KO:0.55%
+Philip Morris International:PM:0.50%
+UnitedHealth Group:UNH:0.49%
+T-Mobile US:TMUS:0.47%
+GE Aerospace:GE:0.47%
+Cisco:CSCO:0.46%
+Salesforce:CRM:0.46%
+IBM:IBM:0.46%
+Chevron Corporation:CVX:0.44%
+Wells Fargo:WFC:0.44%
+Abbott Laboratories:ABT:0.41%
+Linde plc:LIN:0.40%
+McDonald's:MCD:0.38%
+Morgan Stanley:MS:0.38%
+Intuit:INTU:0.38%
+American Express:AXP:0.37%
+ServiceNow:NOW:0.37%
+Walt Disney Company (The):DIS:0.37%
+AT&T:T:0.36%
+Merck & Co.:MRK:0.36%
+Accenture:ACN:0.36%
+Advanced Micro Devices:AMD:0.36%
+Intuitive Surgical:ISRG:0.34%
+Goldman Sachs:GS:0.34%
+RTX Corporation:RTX:0.33%
+Verizon:VZ:0.33%
+Texas Instruments:TXN:0.33%
+Uber:UBER:0.32%
+Booking Holdings:BKNG:0.32%
+Adobe Inc.:ADBE:0.32%
+PepsiCo:PEP:0.32%
+Qualcomm:QCOM:0.31%
+Caterpillar Inc.:CAT:0.30%
+Boeing:BA:0.29%
+Charles Schwab Corporation:SCHW:0.29%
+S&P Global:SPGI:0.28%
+Amgen:AMGN:0.28%
+Thermo Fisher Scientific:TMO:0.28%
+Progressive Corporation:PGR:0.28%
+BlackRock:BLK:0.27%
+NextEra Energy:NEE:0.26%
+Boston Scientific:BSX:0.26%
+Stryker Corporation:SYK:0.26%
+Honeywell:HON:0.26%
+Citigroup:C:0.26%
+Danaher Corporation:DHR:0.26%
+TJX Companies:TJX:0.25%
+Deere & Company:DE:0.25%
+Applied Materials:AMAT:0.25%
+Gilead Sciences:GILD:0.25%
+Pfizer:PFE:0.24%
+Union Pacific Corporation:UNP:0.24%
+Palo Alto Networks:PANW:0.23%
+Comcast:CMCSA:0.23%
+GE Vernova:GEV:0.23%
+Automatic Data Processing:ADP:0.23%
+Capital One:COF:0.23%
+Micron Technology:MU:0.23%
+Eaton Corporation:ETN:0.23%
+Lowe's:LOW:0.22%
+Arista Networks:ANET:0.21%
+CrowdStrike:CRWD:0.21%
+Analog Devices:ADI:0.21%
+Vertex Pharmaceuticals:VRTX:0.20%
+Chubb Limited:CB:0.20%
+Lam Research:LRCX:0.20%
+ConocoPhillips:COP:0.20%
+Amphenol:APH:0.20%
+Medtronic:MDT:0.20%
+Lockheed Martin:LMT:0.20%
+KLA Corporation:KLAC:0.20%
+KKR:KKR:0.20%
+Marsh McLennan:MMC:0.19%
+Blackstone Inc.:BX:0.19%
+Starbucks:SBUX:0.18%
+Prologis:PLD:0.18%
+Bristol Myers Squibb:BMY:0.18%
+Intercontinental Exchange:ICE:0.18%
+American Tower:AMT:0.18%
+Altria:MO:0.18%
+Welltower:WELL:0.17%
+Southern Company:SO:0.17%
+CME Group:CME:0.17%
+Trane Technologies:TT:0.17%
+Waste Management:WM:0.17%
+Nike, Inc.:NKE:0.17%
+Fiserv:FI:0.17%
+Constellation Energy:CEG:0.16%
+DoorDash:DASH:0.16%
+Intel:INTC:0.16%
+Cintas:CTAS:0.16%
+Duke Energy:DUK:0.16%
+Sherwin-Williams:SHW:0.16%
+Equinix:EQIX:0.16%
+McKesson Corporation:MCK:0.16%
+Elevance Health:ELV:0.16%
+HCA Healthcare:HCA:0.16%
+Moody's Corporation:MCO:0.16%
+Mondelez International:MDLZ:0.15%
+Airbnb:ABNB:0.15%
+Parker Hannifin:PH:0.15%
+United Parcel Service:UPS:0.15%
+Cigna:CI:0.15%
+Cadence Design Systems:CDNS:0.15%
+TransDigm Group:TDG:0.14%
+CVS Health:CVS:0.14%
+Arthur J. Gallagher & Co.:AJG:0.14%
+Fortinet:FTNT:0.14%
+Dell Technologies:DELL:0.14%
+Republic Services:RSG:0.14%
+3M:MMM:0.14%
+Apollo Global Management:APO:0.14%
+Synopsys:SNPS:0.14%
+Aon:AON:0.14%
+Ecolab:ECL:0.13%
+General Dynamics:GD:0.13%
+Colgate-Palmolive:CL:0.13%
+Royal Caribbean Group:RCL:0.13%
+Zoetis:ZTS:0.13%
+Marriott International:MAR:0.13%
+Illinois Tool Works:ITW:0.13%
+Williams Companies:WMB:0.13%
+PayPal:PYPL:0.13%
+Emerson Electric:EMR:0.13%
+PNC Financial Services:PNC:0.13%
+Northrop Grumman:NOC:0.13%
+U.S. Bancorp:USB:0.13%
+Motorola Solutions:MSI:0.12%
+Chipotle Mexican Grill:CMG:0.12%
+Howmet Aerospace:HWM:0.12%
+Johnson Controls:JCI:0.12%
+Workday, Inc.:WDAY:0.12%
+Coinbase Global:COIN:0.12%
+EOG Resources:EOG:0.11%
+BNY Mellon:BK:0.11%
+Autodesk:ADSK:0.11%
+Air Products:APD:0.11%
+AutoZone:AZO:0.11%
+Roper Technologies:ROP:0.11%
+Carrier Global:CARR:0.11%
+Kinder Morgan:KMI:0.11%
+Monster Beverage:MNST:0.11%
+Freeport-McMoRan:FCX:0.11%
+CSX Corporation:CSX:0.11%
+Hilton Worldwide:HLT:0.11%
+Travelers Companies (The):TRV:0.11%
+Axon Enterprise:AXON:0.11%
+Digital Realty:DLR:0.11%
+Newmont:NEM:0.11%
+Norfolk Southern Railway:NSC:0.10%
+Regeneron Pharmaceuticals:REGN:0.10%
+Vistra Corp.:VST:0.10%
+Paychex:PAYX:0.10%
+Charter Communications:CHTR:0.10%
+Aflac:AFL:0.10%
+NXP Semiconductors:NXPI:0.10%
+Cencora:COR:0.10%
+FedEx:FDX:0.10%
+American Electric Power:AEP:0.10%
+Truist Financial:TFC:0.09%
+MetLife:MET:0.09%
+Public Storage:PSA:0.09%
+Allstate:ALL:0.09%
+Simon Property Group:SPG:0.09%
+Quanta Services:PWR:0.09%
+W. W. Grainger:GWW:0.09%
+Realty Income:O:0.09%
+ONEOK:OKE:0.09%
+Marathon Petroleum:MPC:0.09%
+Becton Dickinson:BDX:0.09%
+Paccar:PCAR:0.09%
+Ameriprise Financial:AMP:0.09%
+TE Connectivity:TEL:0.09%
+Nasdaq, Inc.:NDAQ:0.09%
+Corteva:CTVA:0.09%
+Sempra:SRE:0.09%
+American International Group:AIG:0.09%
+Fastenal:FAST:0.09%
+Phillips 66:PSX:0.09%
+Copart:CPRT:0.09%
+Schlumberger:SLB:0.08%
+Dominion Energy:D:0.08%
+General Motors:GM:0.08%
+Ross Stores:ROST:0.08%
+United Rentals:URI:0.08%
+L3Harris:LHX:0.08%
+Target Corporation:TGT:0.08%
+Cummins:CMI:0.08%
+Edwards Lifesciences:EW:0.08%
+Keurig Dr Pepper:KDP:0.08%
+Kimberly-Clark:KMB:0.08%
+Verisk Analytics:VRSK:0.08%
+MSCI:MSCI:0.08%
+Kroger:KR:0.08%
+Corning Inc.:GLW:0.08%
+Crown Castle:CCI:0.08%
+Fair Isaac:FICO:0.08%
+Occidental Petroleum:OXY:0.08%
+Hess Corporation:HES:0.08%
+Take-Two Interactive:TTWO:0.08%
+Fidelity National Information Services:FIS:0.08%
+Exelon:EXC:0.08%
+Diamondback Energy:FANG:0.08%
+Idexx Laboratories:IDXX:0.07%
+Ford Motor Company:F:0.07%
+Ametek:AME:0.07%
+Valero Energy:VLO:0.07%
+Kenvue:KVUE:0.07%
+Garmin:GRMN:0.07%
+Cognizant:CTSH:0.07%
+Yum! Brands:YUM:0.07%
+Xcel Energy:XEL:0.07%
+Public Service Enterprise Group:PEG:0.07%
+CBRE Group:CBRE:0.07%
+Baker Hughes:BKR:0.07%
+D. R. Horton:DHI:0.07%
+Otis Worldwide:OTIS:0.07%
+Prudential Financial:PRU:0.07%
+Microchip Technology:MCHP:0.07%
+ResMed:RMD:0.07%
+Electronic Arts:EA:0.07%
+Sysco:SYY:0.07%
+eBay:EBAY:0.07%
+Consolidated Edison:ED:0.07%
+Cardinal Health:CAH:0.07%
+Entergy:ETR:0.07%
+Rockwell Automation:ROK:0.07%
+Hartford (The):HIG:0.06%
+Targa Resources:TRGP:0.06%
+Vulcan Materials Company:VMC:0.06%
+Wabtec:WAB:0.06%
+Old Dominion:ODFL:0.06%
+Monolithic Power Systems:MPWR:0.06%
+Vici Properties:VICI:0.06%
+Hershey Company (The):HSY:0.06%
+Agilent Technologies:A:0.06%
+Equifax:EFX:0.06%
+Ingersoll Rand:IR:0.06%
+Arch Capital Group:ACGL:0.06%
+CoStar Group:CSGP:0.06%
+Delta Air Lines:DAL:0.06%
+Dexcom:DXCM:0.06%
+Martin Marietta Materials:MLM:0.06%
+WEC Energy Group:WEC:0.06%
+GE HealthCare:GEHC:0.06%
+Live Nation Entertainment:LYV:0.06%
+Carnival:CCL:0.06%
+Gartner:IT:0.06%
+EQT Corporation:EQT:0.06%
+PG&E Corporation:PCG:0.06%
+Extra Space Storage:EXR:0.06%
+Kraft Heinz:KHC:0.06%
+Xylem Inc.:XYL:0.06%
+Lululemon Athletica:LULU:0.06%
+Brown & Brown:BRO:0.05%
+Constellation Brands:STZ:0.05%
+Ansys:ANSS:0.05%
+General Mills:GIS:0.05%
+Raymond James Financial:RJF:0.05%
+Iron Mountain:IRM:0.05%
+M&T Bank:MTB:0.05%
+Las Vegas Sands:LVS:0.05%
+Willis Towers Watson:WTW:0.05%
+NRG Energy:NRG:0.05%
+Lennar:LEN:0.05%
+AvalonBay Communities:AVB:0.05%
+DuPont:DD:0.05%
+Nucor:NUE:0.05%
+Ventas:VTR:0.05%
+Broadridge Financial Solutions:BR:0.05%
+Humana:HUM:0.05%
+Kellanova:K:0.05%
+State Street Corporation:STT:0.05%
+Keysight Technologies:KEYS:0.05%
+DTE Energy:DTE:0.05%
+Centene Corporation:CNC:0.05%
+Rollins, Inc.:ROL:0.05%
+Seagate Technology:STX:0.05%
+IQVIA:IQV:0.05%
+American Water Works:AWK:0.05%
+W. R. Berkley Corporation:WRB:0.05%
+United Airlines Holdings:UAL:0.05%
+Tractor Supply:TSCO:0.05%
+Expand Energy:EXE:0.05%
+Fifth Third Bancorp:FITB:0.05%
+Equity Residential:EQR:0.05%
+Verisign:VRSN:0.05%
+Ameren:AEE:0.05%
+PPG Industries:PPG:0.05%
+Supermicro:SMCI:0.05%
+GoDaddy:GDDY:0.05%
+Texas Pacific Land Corporation:TPL:0.05%
+Darden Restaurants:DRI:0.05%
+Estée Lauder Companies (The):EL:0.05%
+Mettler Toledo:MTD:0.05%
+Tyler Technologies:TYL:0.04%
+International Paper:IP:0.04%
+PPL Corporation:PPL:0.04%
+Dover Corporation:DOV:0.04%
+Dollar General:DG:0.04%
+Veralto:VLTO:0.04%
+Corpay:CPAY:0.04%
+Fox Corporation (Class A):FOXA:0.04%
+Fortive:FTV:0.04%
+Church & Dwight:CHD:0.04%
+Eversource Energy:ES:0.04%
+SBA Communications:SBAC:0.04%
+Atmos Energy:ATO:0.04%
+Hewlett Packard Enterprise:HPE:0.04%
+Steris:STE:0.04%
+HP Inc.:HPQ:0.04%
+Huntington Bancshares:HBAN:0.04%
+Warner Bros. Discovery:WBD:0.04%
+CenterPoint Energy:CNP:0.04%
+Teledyne Technologies:TDY:0.04%
+CDW:CDW:0.04%
+Archer Daniels Midland:ADM:0.04%
+Cincinnati Financial:CINF:0.04%
+Synchrony Financial:SYF:0.04%
+Cboe Global Markets:CBOE:0.04%
+FirstEnergy:FE:0.04%
+Smurfit WestRock:SW:0.04%
+Fox Corporation (Class B):FOX:0.04%
+ON Semiconductor:ON:0.04%
+Expedia Group:EXPE:0.04%
+LabCorp:LH:0.04%
+Devon Energy:DVN:0.04%
+Northern Trust:NTRS:0.04%
+NVR, Inc.:NVR:0.04%
+NetApp:NTAP:0.04%
+Dow Inc.:DOW:0.04%
+Insulet Corporation:PODD:0.04%
+Amcor:AMCR:0.04%
+T. Rowe Price:TROW:0.04%
+Ulta Beauty:ULTA:0.04%
+CMS Energy:CMS:0.04%
+Hubbell Incorporated:HUBB:0.04%
+Waters Corporation:WAT:0.04%
+PulteGroup:PHM:0.04%
+Invitation Homes:INVH:0.04%
+PTC Inc.:PTC:0.04%
+McCormick & Company:MKC:0.04%
+International Flavors & Fragrances:IFF:0.04%
+Regions Financial Corporation:RF:0.04%
+Steel Dynamics:STLD:0.04%
+Coterra:CTRA:0.04%
+Western Digital:WDC:0.04%
+Tyson Foods:TSN:0.04%
+Quest Diagnostics:DGX:0.04%
+Biogen:BIIB:0.04%
+Lennox International:LII:0.04%
+Weyerhaeuser:WY:0.04%
+Dollar Tree:DLTR:0.03%
+Southwest Airlines:LUV:0.03%
+Global Payments:GPN:0.03%
+Williams-Sonoma:WSM:0.03%
+Jabil:JBL:0.03%
+LyondellBasell:LYB:0.03%
+Edison International:EIX:0.03%
+Leidos:LDOS:0.03%
+Erie Indemnity:ERIE:0.03%
+Halliburton:HAL:0.03%
+NiSource:NI:0.03%
+Loews Corporation:L:0.03%
+Zimmer Biomet:ZBH:0.03%
+Essex Property Trust:ESS:0.03%
+Gen Digital:GEN:0.03%
+Citizens Financial Group:CFG:0.03%
+News Corp (Class B):NWS:0.03%
+KeyCorp:KEY:0.03%
+Mid-America Apartment Communities:MAA:0.03%
+Packaging Corporation of America:PKG:0.03%
+Genuine Parts Company:GPC:0.03%
+Trimble Inc.:TRMB:0.03%
+First Solar:FSLR:0.03%
+Principal Financial Group:PFG:0.03%
+Hormel Foods:HRL:0.03%
+F5, Inc.:FFIV:0.03%
+Snap-on:SNA:0.03%
+Tapestry, Inc.:TPR:0.03%
+Deckers Brands:DECK:0.03%
+West Pharmaceutical Services:WST:0.03%
+Pentair:PNR:0.03%
+Ralph Lauren Corporation:RL:0.03%
+FactSet:FDS:0.03%
+Baxter International:BAX:0.03%
+Molina Healthcare:MOH:0.03%
+Best Buy:BBY:0.03%
+News Corp (Class A):NWSA:0.03%
+Domino's:DPZ:0.03%
+Clorox:CLX:0.03%
+Evergy:EVRG:0.03%
+Alliant Energy:LNT:0.03%
+Expeditors International:EXPD:0.03%
+Jacobs Solutions:J:0.03%
+Zebra Technologies:ZBRA:0.03%
+Ball Corporation:BALL:0.03%
+Aptiv:APTV:0.03%
+CF Industries:CF:0.03%
+Cooper Companies (The):COO:0.03%
+Hologic:HOLX:0.03%
+Everest Group:EG:0.03%
+Paycom:PAYC:0.03%
+Kimco Realty:KIM:0.03%
+J.B. Hunt:JBHT:0.03%
+Teradyne:TER:0.03%
+Omnicom Group:OMC:0.03%
+Avery Dennison:AVY:0.03%
+Textron:TXT:0.02%
+IDEX Corporation:IEX:0.02%
+UDR, Inc.:UDR:0.02%
+Masco:MAS:0.02%
+Incyte:INCY:0.02%
+TKO Group Holdings:TKO:0.02%
+Align Technology:ALGN:0.02%
+Brown–Forman:BF.B:0.02%
+Regency Centers:REG:0.02%
+Jack Henry & Associates:JKHY:0.02%
+Solventum:SOLV:0.02%
+Alexandria Real Estate Equities:ARE:0.02%
+Builders FirstSource:BLDR:0.02%
+Camden Property Trust:CPT:0.02%
+Nordson Corporation:NDSN:0.02%
+Healthpeak Properties:DOC:0.02%
+Allegion:ALLE:0.02%
+Juniper Networks:JNPR:0.02%
+BXP, Inc.:BXP:0.02%
+Franklin Resources:BEN:0.02%
+Pool Corporation:POOL:0.02%
+C.H. Robinson:CHRW:0.02%
+Revvity:RVTY:0.02%
+Skyworks Solutions:SWKS:0.02%
+Universal Health Services:UHS:0.02%
+Host Hotels & Resorts:HST:0.02%
+Akamai Technologies:AKAM:0.02%
+Mosaic Company (The):MOS:0.02%
+Moderna:MRNA:0.02%
+Pinnacle West:PNW:0.02%
+Stanley Black & Decker:SWK:0.02%
+Conagra Brands:CAG:0.02%
+Molson Coors Beverage Company:TAP:0.02%
+DaVita:DVA:0.02%
+Viatris:VTRS:0.02%
+CarMax:KMX:0.02%
+J.M. Smucker Company (The):SJM:0.02%
+LKQ Corporation:LKQ:0.02%
+EPAM Systems:EPAM:0.02%
+Campbell Soup Company:CPB:0.02%
+Bunge Global:BG:0.02%
+Assurant:AIZ:0.02%
+Globe Life:GL:0.02%
+Walgreens Boots Alliance:WBA:0.02%
+Hasbro:HAS:0.02%
+Dayforce:DAY:0.02%
+Eastman Chemical Company:EMN:0.02%
+A. O. Smith:AOS:0.02%
+Wynn Resorts:WYNN:0.02%
+MGM Resorts:MGM:0.02%
+Henry Schein:HSIC:0.02%
+Huntington Ingalls Industries:HII:0.02%
+Norwegian Cruise Line Holdings:NCLH:0.02%
+Interpublic Group of Companies (The):IPG:0.02%
+Federal Realty Investment Trust:FRT:0.02%
+MarketAxess:MKTX:0.01%
+Paramount Global:PARA:0.01%
+Lamb Weston:LW:0.01%
+Bio-Techne:TECH:0.01%
+Match Group:MTCH:0.01%
+AES Corporation:AES:0.01%
+Generac:GNRC:0.01%
+Albemarle Corporation:ALB:0.01%
+Charles River Laboratories:CRL:0.01%
+APA Corporation:APA:0.01%
+Invesco:IVZ:0.01%
+Mohawk Industries:MHK:0.01%
+Enphase Energy:ENPH:0.01%
+Caesars Entertainment:CZR:0.01%
+O'Reilly Auto Parts:ORLY:0.01%

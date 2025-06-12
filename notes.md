@@ -116,3 +116,14 @@ classDiagram
 	value()
   }
 ```
+
+## Information Sources
+
+### S&P 500 Membership
+
+Many sites maintain a list of S&P 500 companies. 
+We download it periodically and use it in our program.
+
+### Permissibility
+
+We determine the permissibility and keep it in a CSV file that the program loads. 
