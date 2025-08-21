@@ -1,19 +1,14 @@
-class SNP500:
+from datetime import date
+import time
+import json
+import yfinance as yf
+
+class Company:
 	def __init__(self, name, symbol, weight):
 		self.name = name
 		self.symbol = symbol
 		self.weight = weight
 
-class Performance:
-	def __init__(self, symbol, weight):
-		self.symbol = symbol
-		self.weight = weight
-		
-	def update(self):
-		self.price = 25
-		price_30_day = 32
-		price_6_month = 21
-	
 class Holding:
 	def __init__(self, symbol, shares):
 		self.symbol = symbol
@@ -27,13 +22,13 @@ class PurchasingAgent:
 		
 	def __init__(self, file):
 		self.snp500 = []
-		
+					
 		with open(file) as fp:
 			snp_list = fp.readlines()
 			
 		for line in snp_list:
 			name, symbol, weight = line.split(":")
-			self.snp500.append(SNP500(name.strip(), symbol.strip(), weight.rstrip("%\n")))
+			self.snp500.append(Company(name.strip(), symbol.strip(), weight.rstrip("%\n")))
 			
 	def get_permissibilities(self, file):
 		self.permissibilities = {}
@@ -46,28 +41,39 @@ class PurchasingAgent:
 			self.permissibilities[symbol] = permissibility.strip()
 			
 	def screen(self):
-		allowed = list(filter(lambda company: self.permissibilities.get(company.symbol) == "Halal", self.snp500))
-		self.candidates = [Performance(company.symbol, company.weight) for company in allowed]
+		self.snp500 = list(filter(lambda company: self.permissibilities.get(company.symbol) == "Halal", self.snp500))
+		
+	def update(self):
+		fetch_time = time.time()
+		today = date.today().isoformat()
+		symbols = [c.symbol for c in self.snp500]
+		p_30d = yf.download(symbols, period = "30d", multi_level_index = False)['Close']
+		#self.price = p_30d[-1]
+		#price_30_day = p_30d[0]
+		p_6mo = yf.download(symbols, period = "180d", multi_level_index = False)['Close']
+		#price_6_month = p_6mo[0]
+		
+		for company in self.snp500:
+			company.price = p_30d[company.symbol][-1]
+			company.price_30d = p_30d[company.symbol][0]
+			company.price_6m = p_6mo[company.symbol][0]
 		
 	def rank_by_size(self):
-		for company in self.candidates:
-			company.update()
-		self.candidates.sort(key=lambda company: company.weight, reverse=True)
+		self.snp500.sort(key=lambda company: company.weight, reverse=True)
 		
 	def compute_relative_price(self):
-		for company in self.candidates:
-			company.update()
+		self.update()
 		#TODO: calculate 30 day and 6 month performance and decide how to store items
+		for company in self.snp500:
+			company.st_perf = company.price / company.price_30d - 1
+			company.lt_perf = company.price / company.price_6m - 1
 		
 	def choose(self):
 		# Choosing will be a manual step for now.
 		# This function will display candidates in order of size with their price performance
 		for company in self.snp500:
-			print(vars(company))
-		print(self.permissibilities)
-		print()
-		for company in self.candidates:
-			print(vars(company))
+			if company.st_perf < 0 and company.lt_perf >= 0:
+				print(f"{company.symbol}\t\t{company.weight}\t{company.price:.2f}\t{company.st_perf:.2f}\t{company.lt_perf:.2f}\t{company.name}")
 		return
 
 if __name__ == "__main__":

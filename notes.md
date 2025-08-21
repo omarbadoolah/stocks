@@ -98,6 +98,7 @@ classDiagram
   class SP500{ 
     name
 	symbol
+	weight
   }
   class HalalHaraam{
     symbol -> permissibility
